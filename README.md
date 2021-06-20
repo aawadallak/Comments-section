@@ -3,7 +3,7 @@
  </p>
 
 <p align="center">
- <a href="#-sobre-o-projeto">About</a> • 
+ <a href="#-sobre-o-projeto">Sobre</a> • 
  <a href="#-como-executar-o-projeto">Como executar o projeto</a> • 
  <a href="#-como-contribuir-com-o-projeto">Como contribuir com o projeto?</a> • 
  <a href="#-autor">Autor</a> • 
@@ -15,7 +15,14 @@
 </p>
 
 ### 💻 Sobre o projeto
-O projeto trata da construção de um mini sessão de comentários que pode ser utilizadas em blogs. O principal objetivo desse projeto era entender a reatividade que consta por trás do vueJS e como componentizar os objetos dentro do projeto.
+O projeto trata da construção de um mini sessão de comentários que pode ser utilizadas em blogs. O principal objetivo desse projeto era entender a reatividade que consta por trás do vueJS e como componentizar os objetos dentro do projeto. Não foi utilizado nenhum banco de dados na construção do projeto, apenas passando os itens para um array e iterando eles com laços de repetições.
+
+### 🛠 Tecnologias utilizadas
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![VueJs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+
  
 ### 🚀 Como executar o projeto 
 
