@@ -10,21 +10,26 @@
  <a href="#user-content--licença">Licença</a>
 </p>
 
+<hr />
+
 <p align="center">
  <img src="https://user-images.githubusercontent.com/74802742/122679021-8aa59c00-d1bf-11eb-866d-1d32eeee830e.gif" width="80%" heigth="80%" alt="nothing here">
 </p>
 
-### 💻 Sobre o projeto
+### 💻  Sobre o projeto
+<p align="center">
 O projeto trata da construção de um mini sessão de comentários que pode ser utilizadas em blogs. O principal objetivo desse projeto era entender a reatividade que consta por trás do vueJS e como componentizar os objetos dentro do projeto. Não foi utilizado nenhum banco de dados na construção do projeto, apenas passando os itens para um array e iterando eles com laços de repetições.
+</p>
+<hr />
 
-### 🛠 Tecnologias utilizadas
+### 🛠  Tecnologias utilizadas
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![VueJs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
- 
-### 🚀 Como executar o projeto 
+
+### 🚀  Como executar o projeto 
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
