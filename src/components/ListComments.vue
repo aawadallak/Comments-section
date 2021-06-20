@@ -7,7 +7,7 @@
       </div>
       <div
         v-else
-        class="list-group-item"
+        class="list-group-item container"
         v-for="(comment, index) in allComments"
         v-bind:key="index"
       >
