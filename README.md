@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://comment-section-rouge.vercel.app/#/">Live Demo</a>
+  <a href="https://comment-section-rouge.vercel.app/#/" target="_blank">Live Demo</a>
  </p>
 
 <p align="center">
