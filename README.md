@@ -1,24 +1,66 @@
-# first-vue-cli
 
-## Project setup
-```
-yarn install
+<p align="center">
+ <a href="#-sobre-o-projeto">About</a> • 
+ <a href="#-como-executar-o-projeto">Como executar o projeto</a> • 
+ <a href="#-como-contribuir-com-o-projeto">Como contribuir com o projeto?</a> • 
+ <a href="#-autor">Autor</a> • 
+ <a href="#user-content--licença">Licença</a>
+</p>
+
+### 💻 Sobre o projeto
+O projeto trata da construção de um mini sessão de comentários que pode ser utilizadas em blogs. O principal objetivo desse projeto era entender a reatividade que consta por trás do vueJS e como componentizar os objetos dentro do projeto.
+ 
+### 🚀 Como executar o projeto 
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+## 🧭 Web
+
+```bash
+
+# Clone este repositório
+$ git clone git@github.com:aawadallak/comments-section
+
+# Acesse a pasta do projeto no seu terminal/cmd
+$ cd comments-section
+
+# Instale as dependências
+$ yarn install
+
+# Execute a aplicação em modo de desenvolvimento
+$ yarn serve
+
+# A aplicação será aberta na porta:8000 - acesse http://localhost:8000  
+  
+Enjoy!
 ```
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## 💪 Como contribuir com o projeto
 
-### Compiles and minifies for production
-```
-yarn build
-```
+1. Faça um **fork** do projeto.
+2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
+3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
+4. Envie as suas alterações: `git push origin my-feature`
+> Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](./CONTRIBUTING.md)
 
-### Lints and fixes files
-```
-yarn lint
-```
+  
+## 👨🏻‍🎓 Autor
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<a href="https://github.com/aawadallak">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/74802742?v=4" width="100px;" alt=""/>
+</a>
+
+Me mande uma mensagem e ficarei feliz em te ajudar. 😄
+
+[![Youtube Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=http)](mailto:alexandre.awadallak@gmail.com)
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-yasser-awadallak-1900951b0/)](https://www.linkedin.com/in/alexandre-awadallak)
+
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/aawadallak)](https://t.me/aawadallak)
+
+
+## 📝 Licença
+
+Este projeto está sobe a licença [MIT](./LICENSE).
