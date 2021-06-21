@@ -3,9 +3,9 @@
  </p>
 
 <p align="center">
- <a href="#-sobre-o-projeto">Sobre</a> • 
- <a href="#-tecnologias-utilizadas">Tecnologias Utilizadas</a> • 
- <a href="#-como-executar-o-projeto">Como executar o projeto</a> • 
+ <a href="#--sobre-o-projeto">Sobre</a> • 
+ <a href="#--tecnologias-utilizadas">Tecnologias Utilizadas</a> • 
+ <a href="#--como-executar-o-projeto">Como executar o projeto</a> • 
  <a href="#-como-contribuir-com-o-projeto">Como contribuir com o projeto?</a> • 
  <a href="#-autor">Autor</a> • 
  <a href="#user-content--licença">Licença</a>
