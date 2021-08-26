@@ -6,7 +6,7 @@
  <a href="#--about-the-project">About</a> • 
  <a href="#--used-technologies">Used Technologies</a> • 
  <a href="#--how-to-execute-the-project">How to run the project?</a> • 
- <a href="#-how-to-contribute-to-the-project">How to contribute to the project?</a> • 
+ <a href="#--how-to-contribute-to-the-project">How to contribute to the project?</a> • 
  <a href="#-author">Author</a> • 
  <a href="#user-content--license">License</a>
 </p>
