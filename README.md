@@ -5,8 +5,8 @@
 <p align="center">
  <a href="#--about-the-project">About</a> • 
  <a href="#--used-technologies">Used Technologies</a> • 
- <a href="#--how-to-execute-the-project?">How to run the project?</a> • 
- <a href="#-how-to-contribute-to-the-project?">How to contribute to the project?</a> • 
+ <a href="#--how-to-execute-the-project">How to run the project?</a> • 
+ <a href="#-how-to-contribute-to-the-project">How to contribute to the project?</a> • 
  <a href="#-author">Author</a> • 
  <a href="#user-content--license">License</a>
 </p>
@@ -30,7 +30,7 @@ The project is about the construction of comment sessions which can be used on b
 ![VueJs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
 
-### 🚀 How to execute the project?
+### 🚀 How to execute the project
 
 Before we start, you gonna have installed on your machine, the following tools: 
  [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
@@ -55,7 +55,7 @@ $ yarn serve
 Enjoy!
 ```
 
-## 💪 How to contribute to the project?
+## 💪 How to contribute to the project
 
 1. Do a **fork** of the project.
 2. Create a new branch with your changes: `git checkout -b my-feature`
