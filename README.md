@@ -32,9 +32,9 @@ The project is about the construction of comment sessions which can be used on b
 
 ### 🚀 How to execute the project?
 
-Before we start, you gonna have installed on your machine, the following tools:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
-Also, you should have a good code editor with you as an example: VsCode [VSCode](https://code.visualstudio.com/)
+Before we start, you gonna have installed on your machine, the following tools: 
+ [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+ Also, you should have a good code editor with you as an example:[VSCode](https://code.visualstudio.com/)
 
 ```bash
 
